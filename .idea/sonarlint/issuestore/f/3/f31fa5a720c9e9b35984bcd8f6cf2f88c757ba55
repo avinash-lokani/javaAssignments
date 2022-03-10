@@ -1,0 +1,16 @@
+
+P
+java:S1854""5Remove this useless assignment to local variable "l".(öð£Ùþÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(Ü×éþ
+A
+java:S1481""&Remove this unused "l" local variable.(öð£Ùþÿÿÿÿ
+S	java:S106&"9Replace this use of System.out or System.err by a logger.(¨¶ÑÍþÿÿÿÿ
+N	java:S106)"9Replace this use of System.out or System.err by a logger.(šççË
+E
+java:S2093"*Change this "try" to a try-with-resources.(¡»¢üùÿÿÿÿ
+y
+java:S1488"cImmediately throw this expression instead of assigning it to the temporary variable "newException".(šÎòþ
+y
+java:S1488"cImmediately throw this expression instead of assigning it to the temporary variable "newException".(¢“Õ“
+]
+java:S2259""BA "NullPointerException" could be thrown; "temp" is nullable here.(öð£Ùþÿÿÿÿ

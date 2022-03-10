@@ -1,0 +1,10 @@
+
+j	java:S116"PRename this field "var_1" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ìÕë§ûÿÿÿÿ
+h	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Í•Ð­úÿÿÿÿ
+U
+java:S6213":Rename this variable to not match a restricted identifier.(Í•Ð­úÿÿÿÿ
+U
+java:S6213
+":Rename this variable to not match a restricted identifier.(Ó¿³ºýÿÿÿÿ
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(Å­ËÝúÿÿÿÿ8÷ã•¡õ/
+n	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(®–„±øÿÿÿÿ8Ì¥¶¡õ/
