@@ -10,7 +10,8 @@ public class VampireNumbers{
     }
 
     private static boolean fangCheck(int num, int fang1, int fang2){
-        if(Integer.toString(fang1).endsWith("0") && Integer.toString(fang2).endsWith("0")) return false;
+        if(Integer.toString(fang1).endsWith("0") && Integer.toString(fang2).endsWith("0"))
+            return false;
 
         int len = numDigits(num);
         if(numDigits(fang1) != len / 2 || numDigits(fang2) != len / 2) return false;
